@@ -1,0 +1,7 @@
+This gem prints 'Hello, World!'.
+
+Usage:
+
+hello = Hello.new
+hello.world
+=> "Hello, World!"
