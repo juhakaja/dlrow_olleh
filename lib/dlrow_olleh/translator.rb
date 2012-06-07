@@ -1,4 +1,4 @@
-class Hello::Translator
+class DlrowOlleh::Translator
   def initialize(language)
     @language = language
   end

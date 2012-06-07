@@ -1,6 +1,6 @@
-class Hello
+class DlrowOlleh
   # Example:
-  # >> Hello.say :finnish
+  # >> DlrowOlleh.say :finnish
   #   => Terve, Maailma!
   #
   # Arguments:
@@ -12,4 +12,4 @@ class Hello
   end
 end
 
-require 'hello/translator'
+require 'dlrow_olleh/translator'

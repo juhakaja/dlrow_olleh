@@ -1,4 +1,0 @@
-#!/usr/bin/env ruby
-
-require 'hello'
-puts Hello.say(ARGV[0].to_s.to_sym)

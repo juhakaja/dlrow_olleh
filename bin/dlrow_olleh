@@ -1,0 +1,4 @@
+#!/usr/bin/env ruby
+
+require 'dlrow_olleh'
+puts DlrowOlleh.say(ARGV[0].to_s.to_sym)
