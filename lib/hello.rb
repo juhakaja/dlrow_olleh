@@ -1,14 +1,14 @@
 class Hello
   # Example:
-  # >> Hello.world :finnish
+  # >> Hello.say :finnish
   #   => Terve, Maailma!
   #
   # Arguments:
   #   language: (Symbol)
 
-  def self.world(language = :english)
+  def self.say(language = :english)
     translator = Translator.new(language)
-    translator.world
+    translator.say
   end
 end
 

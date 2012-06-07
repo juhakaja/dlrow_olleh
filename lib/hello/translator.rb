@@ -3,7 +3,7 @@ class Hello::Translator
     @language = language
   end
 
-  def world
+  def say
     case @language
     when :finnish
       "Terve, Maailma!"
