@@ -6,7 +6,7 @@ Gem::Specification.new do |s|
   s.description = "A simple hello world gem."
   s.authors = ["Juha Kajava"]
   s.email = 'juhakaja@gmail.com'
-  s.files = ["lib/hello.rb, lib/hello/translator.rb"]
+  s.files = %w(lib/hello.rb lib/hello/translator.rb)
   s.executables << 'hello'
   s.homepage = 'http://rubygems.org/gems/dlrow_olleh'
 end
