@@ -1,6 +1,1 @@
 This gem prints 'Hello, World!'.
-
-Usage:
-
-Hello.world
-=> "Hello, World!"
